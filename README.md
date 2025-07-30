@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MiczBenz
-- 👀 I’m interested in Python Web Development and Data Science.
+- 👋 Hi, I’m Mikhaela.
 - 📫 How to reach me mikhaelafalcao@gmail.com
 
 <!---
